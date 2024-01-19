@@ -11,7 +11,7 @@
 
 - **Network** accessible to <u>*Google*</u>
 
-- **FFmpeg** added into <u>*variables **PATH***</u> (or <u>**within the same folder with FFmpeg**</u>)
+- **FFmpeg** added into <u>*variables **PATH***</u> (or <u>**within the same folder with FFmpeg**</u>) (*https://ffmpeg.org/download.html*)
 
 ### How to Use
 
