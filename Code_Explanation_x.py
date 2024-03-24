@@ -1,6 +1,6 @@
-'''explanation of c_x'''
-
-'''Note: Some codes have been replaced with '***' for certain reason'''
+# -*- coding: utf-8 -*-
+"""Explanation Code of c_x"""
+'''Notes: some codes have been replaced with '***' for certain reason'''
 
 import os
 import time
