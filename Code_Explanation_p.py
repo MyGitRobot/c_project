@@ -1,6 +1,6 @@
-'''explanation of c_p'''
-
-'''Some codes have been replaced with '***' for certain reason'''
+# -*- coding: utf-8 -*-
+"""Explanation Codes of c_p"""
+'''Notes: some codes have been replaced with '***' for certain reason'''
 
 import os
 import requests
