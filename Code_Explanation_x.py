@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Explanation Code of c_x"""
+"""Explanation Codes of c_x"""
 '''Notes: some codes have been replaced with '***' for certain reason'''
 
 import os
